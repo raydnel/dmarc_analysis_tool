@@ -40,7 +40,7 @@ pip install matplotlib fpdf
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/raydnel/dmarc-analysis-tool.git
+git clone https://github.com/raydnel/dmarc_analysis_tool.git
 ```
 2. Navigate to the project directory:
 ```bash
